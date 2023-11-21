@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/PRO192/Java%208.2/MVC2SE1729SU23/src/java/tanhp/registration/RegistrationCreateError.java</file>
+            <file>file:/E:/PRO192/Java%208.2/MVC2SE1729SU23/web/checkout.jsp</file>
+            <file>file:/E:/PRO192/Java%208.2/MVC2SE1729SU23/src/java/tanhp/orderdetail/OrderDetailDAO.java</file>
+            <file>file:/E:/PRO192/Java%208.2/MVC2SE1729SU23/src/java/tanhp/listener/MyContextServletListener.java</file>
+            <file>file:/E:/PRO192/Java%208.2/MVC2SE1729SU23/web/search.html</file>
+            <file>file:/E:/PRO192/Java%208.2/MVC2SE1729SU23/src/java/tanhp/orderdetail/OrderDetailDTO.java</file>
+            <file>file:/E:/PRO192/Java%208.2/MVC2SE1729SU23/src/java/tanhp/controller/DispatchServlet.java</file>
+            <file>file:/E:/PRO192/Java%208.2/MVC2SE1729SU23/web/shopping.html</file>
+            <file>file:/E:/PRO192/Java%208.2/MVC2SE1729SU23/src/java/tanhp/controller/LoginServlet.java</file>
+            <file>file:/E:/PRO192/Java%208.2/MVC2SE1729SU23/src/java/tanhp/order/OrderDAO.java</file>
+            <file>file:/E:/PRO192/Java%208.2/MVC2SE1729SU23/web/createNewAccount.html</file>
+            <file>file:/E:/PRO192/Java%208.2/MVC2SE1729SU23/src/java/tanhp/controller/UpdateAccountServlet.java</file>
+            <file>file:/E:/PRO192/Java%208.2/MVC2SE1729SU23/src/java/tanhp/registration/RegistrationDTO.java</file>
+            <file>file:/E:/PRO192/Java%208.2/MVC2SE1729SU23/src/java/tanhp/registration/RegistrationDAO.java</file>
+            <file>file:/E:/PRO192/Java%208.2/MVC2SE1729SU23/src/java/tanhp/controller/RemoveItemsFromCartServlet.java</file>
+            <file>file:/E:/PRO192/Java%208.2/MVC2SE1729SU23/web/createNewAccount.jsp</file>
+            <file>file:/E:/PRO192/Java%208.2/MVC2SE1729SU23/src/java/tanhp/controller/SearchLastnameServlet.java</file>
+            <file>file:/E:/PRO192/Java%208.2/MVC2SE1729SU23/web/search.jsp</file>
+            <file>file:/E:/PRO192/Java%208.2/MVC2SE1729SU23/src/java/tanhp/cart/CartObj.java</file>
+            <file>file:/E:/PRO192/Java%208.2/MVC2SE1729SU23/src/java/tanhp/controller/CreateAccountServlet.java</file>
+            <file>file:/E:/PRO192/Java%208.2/MVC2SE1729SU23/src/java/tanhp/controller/DeleteAccountServlet.java</file>
+            <file>file:/E:/PRO192/Java%208.2/MVC2SE1729SU23/src/java/tanhp/product/ProductDTO.java</file>
+            <file>file:/E:/PRO192/Java%208.2/MVC2SE1729SU23/src/java/tanhp/controller/CheckOutServlet.java</file>
+            <file>file:/E:/PRO192/Java%208.2/MVC2SE1729SU23/src/java/tanhp/product/ProductDAO.java</file>
+            <file>file:/E:/PRO192/Java%208.2/MVC2SE1729SU23/web/shopping.jsp</file>
+            <file>file:/E:/PRO192/Java%208.2/MVC2SE1729SU23/web/WEB-INF/siteMaps.properties</file>
+            <file>file:/E:/PRO192/Java%208.2/MVC2SE1729SU23/web/login.html</file>
+            <file>file:/E:/PRO192/Java%208.2/MVC2SE1729SU23/src/java/tanhp/controller/StartUpServlet.java</file>
+            <file>file:/E:/PRO192/Java%208.2/MVC2SE1729SU23/src/java/tanhp/controller/ShoppingServlet.java</file>
+            <file>file:/E:/PRO192/Java%208.2/MVC2SE1729SU23/src/java/tanhp/util/DBHelper.java</file>
+            <file>file:/E:/PRO192/Java%208.2/MVC2SE1729SU23/web/invalid.html</file>
+            <file>file:/E:/PRO192/Java%208.2/MVC2SE1729SU23/src/java/tanhp/order/OrderDTO.java</file>
+            <file>file:/E:/PRO192/Java%208.2/MVC2SE1729SU23/src/java/tanhp/util/MyApplicationConstants.java</file>
+            <file>file:/E:/PRO192/Java%208.2/MVC2SE1729SU23/web/META-INF/context.xml</file>
+            <file>file:/E:/PRO192/Java%208.2/MVC2SE1729SU23/src/java/tanhp/controller/AddItemToCartServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
